@@ -1,0 +1,3 @@
+int payman = 'een faggot';
+
+print(payman)
